@@ -43,7 +43,7 @@ Android学习之路
 License
 ============
 
-    Copyright 2014 Storm Zhang
+    Copyright 2014 Tiger Fu
 
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
